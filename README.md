@@ -54,4 +54,5 @@
 * Keypoints - keypoints1.jpg,keypoints2.jpg
 * Matches - matches.jpg
 * Panoroma - stitched_123.jpg
+* Pano_set_2 in Imgs contains another example of panoroma
   
