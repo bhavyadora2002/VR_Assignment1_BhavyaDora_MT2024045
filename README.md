@@ -53,6 +53,6 @@
 * Input Images - left.jpg,center.jpg,right.jpg
 * Keypoints - keypoints1.jpg,keypoints2.jpg
 * Matches - matches.jpg
-* Panoroma - stitched_123.jpg
+* Panoroma - pano.jpg
 * Pano_set_2 in Imgs contains another example of panoroma
   
