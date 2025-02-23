@@ -28,7 +28,7 @@
 * Contour Segmentation - contour_seg.jpg
 * Binary Segmentation - binary_seg.jpg
 * Color Segmentation - color_seg.jpg
-* Segmented Coins - SegmentedCoin_1.jpg to SegmentedCoin_18.jpg
+* Segmented Coins - SegmentedCoin_1.jpg to SegmentedCoin_18.jpg,coincount.jpg
 
 ## Part 2: Create a stitched panorama from multiple overlapping images.
 ## BRIEF ABOUT CODE
